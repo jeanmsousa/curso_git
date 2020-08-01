@@ -11,3 +11,10 @@ Testando Linguagem MarkDown:
   - [ ] Tarefa 1
   - [ ] Tarefa 2
   - [x] Tarefa concluída
+
+Tabelas:
+
+Nome | Idade | Curso
+---|---|---
+Jean | 23 anos | ADS
+Martins | 23 | Git/GitHub
